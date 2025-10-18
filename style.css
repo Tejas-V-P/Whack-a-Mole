@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to top, #37def7, #ffffff);
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.mole {
+    width: 150px;
+    height: 150px;
+    align-items: center;
+    border: 5px solid white;
+    border-radius: 100px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+#scoreboard{
+    text-align: center;
+}
+/* 
+#restart{
+    text-align: center;
+} */
